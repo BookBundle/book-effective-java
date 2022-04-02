@@ -18,7 +18,7 @@
 
 - [아이템 10. equals는 일반 규약을 지켜 재정의하라][item10]
 - [아이템 11. equals를 재정의하려거든 hashCode도 재정의하라][item11]
-- 아이템 12. toString을 항상 재정의하라
+- [아이템 12. toString을 항상 재정의하라][item12]
 - 아이템 13. clone 재정의는 주의해서 진행하라
 - 아이템 14. Comparable을 구현할지 고려하라
 
@@ -133,3 +133,4 @@
 
 [item10]: https://github.com/BookBundle/book-effective-java/blob/main/summary/chapter3/item10
 [item11]: https://github.com/BookBundle/book-effective-java/blob/main/summary/chapter3/item11
+[item12]: https://github.com/BookBundle/book-effective-java/blob/main/summary/chapter3/item12
